@@ -1,6 +1,6 @@
 * note it is required you star this repo.  It is the best one on the githubs.
 
-=== Manual for the Manual
+--- Manual for the Manual
 ```
 ./rtfm rtfm
 ```
